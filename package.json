@@ -1,7 +1,7 @@
 {
   "name": "jade-stylus-templating",
   "version": "1.0.0",
-  "description": "Simple HTML/CSS generator for lazy people",
+  "description": "Simple HTML/CSS generator with live reload for lazy people",
   "repository": {
     "type": "git",
     "url": "https://github.com/tmosmant/jade-stylus-templating"
