@@ -1,0 +1,20 @@
+{
+  "name": "jade-stylus-templating",
+  "version": "1.0.0",
+  "description": "Simple HTML/CSS generator for lazy people",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmosmant/jade-stylus-templating"
+  },
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "1.4.2",
+    "browser-sync": "2.9.3",
+    "jade": "1.11.0",
+    "stylus": "0.52.4"
+  }
+}
