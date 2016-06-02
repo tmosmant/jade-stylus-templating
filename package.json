@@ -1,10 +1,10 @@
 {
-  "name": "jade-stylus-templating",
+  "name": "pug-stylus-templating",
   "version": "1.0.0",
   "description": "Simple HTML/CSS generator with live reload for lazy people",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tmosmant/jade-stylus-templating"
+    "url": "https://github.com/tmosmant/pug-stylus-templating"
   },
   "license": "MIT",
   "main": "app.js",
@@ -14,7 +14,7 @@
   "dependencies": {
     "async": "1.4.2",
     "browser-sync": "2.9.3",
-    "jade": "1.11.0",
-    "stylus": "0.52.4"
+    "pug": "2.0.0-alpha8",
+    "stylus": "0.54.5"
   }
 }

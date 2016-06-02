@@ -1,8 +1,8 @@
-# jade-stylus-templating
+# pug-stylus-templating
 
 # What it does
 
-This tool allows you to generate HTML and CSS from jade and stylus abstractions with an updated preview in your browser.
+This tool allows you to generate HTML and CSS from pug and stylus abstractions with an updated preview in your browser.
 
 # Quick start
 
